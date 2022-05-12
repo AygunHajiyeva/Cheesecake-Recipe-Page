@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Cheesecake Recipe Page}</h1>
+<h1 align="center">Cheesecake Recipe Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -17,19 +17,16 @@
    
 ## Overview
  Responsive cheesecake recipe page:
-   
- ![2022-05-03 (5)](https://user-images.githubusercontent.com/99952793/166363727-3176c6e8-690c-476d-9eec-3112cb891534.png)
+  ![screencapture-cheesecakepage-netlify-app-2022-05-12-11_10_48](https://user-images.githubusercontent.com/99952793/168012664-84b37a93-7796-4867-87c2-4baadeb0b5cb.png)
 
 
-### Built With
+## Built With
 
 - [HTML5]
 - [CSS]
 - [JavaScript]
 
 ## Features
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the following user stories:
 
 User story: I can see a recipe with ingredients and instructions</br>
 User story: I can select a checkbox if I have the ingredients</br>
