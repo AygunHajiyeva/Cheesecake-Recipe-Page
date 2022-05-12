@@ -7,11 +7,11 @@
 </div>
 
 <div align="center">
-  <h3>
+  <h1>
     <a href="https://cheesecakepage.netlify.app">
-      >>> Demo <<<
+      >>>> Demo <<<<
     </a>
-  </h3>
+  </h1>
 </div>
    
    
@@ -23,7 +23,9 @@
 
 ### Built With
 
-Semantic HTML5 markup, CSS custom properties, Flexbox
+- [HTML5]
+- [CSS]
+- [JavaScript]
 
 ## Features
 
