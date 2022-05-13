@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Cheesecake Recipe Page</h1>
+<h1 align="center">C</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -34,6 +34,6 @@ User story: I can see the number of servings, baking times
 
 ## Contact
 
-- GitHub [@AygunHajiyeva](https://{https://github.com/AygunHajiyeva})
+- GitHub [@AygunHajiyeva](https://github.com/AygunHajiyeva)
 
 
