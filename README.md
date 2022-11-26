@@ -2,7 +2,9 @@
 
 <h1 align="center">CHEESECAKE RECIPE PAGE</h1>
 
-<div align="center">
+<div >
+<h2><a href="https://www.figma.com/file/2jVBTSKeCYF0dIN6fi0stX/recipe-blog-challenge?node-id=0%3A1">Figma File</a><h2>
+
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
